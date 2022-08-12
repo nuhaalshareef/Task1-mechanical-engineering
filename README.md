@@ -22,6 +22,6 @@ The robot leg when the angle is 0 " Pefore movement "
 
 ![unnamed (8)](https://user-images.githubusercontent.com/108008564/184360187-5ef1387e-f485-43db-82f4-7f117e6fecd2.jpg)
 
-The robot leg when the angle is 25.95 " after movement " 
+The robot leg when the angle is 25.94 " after movement " 
 
 ![unnamed (9)](https://user-images.githubusercontent.com/108008564/184360595-1112f11c-e69f-4643-b490-85aae9796a0b.jpg)
